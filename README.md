@@ -2,8 +2,8 @@
 
 This quest is a good way to get the idea and learn more about what skill set will be needed to build and design the Data pipeline architecture.  
 
-PART-1 :
---------------
+PART-1 : AWS S3 & Sourcing Datasets
+------------------------------------
 - This part is about the showing the Managing the data fom the different sources via utilizing the AWS S3 and 
 implementing in python.
 
@@ -28,7 +28,7 @@ CRON Expression:
 It will execute `Part-1.py` 
 
 
-PART-2 :
+PART-2 : API
 --------------
 - In this section, mainly  focusing on working with the API for sourcing the data and to store it in-house AWS S3.
 
@@ -59,3 +59,9 @@ It will execute `Part-1.py`
 
 
 Note: For Both Part-1 and Part-2, This will be hosted on EC2 instance. 
+
+PART-3 : Data Analytics
+----------------------------
+- Utilized the data extracted from Part-1 and Part-2 for the analysis.
+
+- A jupyter notebook `Part-3.ipynb` is uploaded with the analysis and results of each section.  
